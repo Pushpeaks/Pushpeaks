@@ -29,20 +29,23 @@
 - [Tableau](https://www.tableau.com/)
 - [Power BI](https://powerbi.microsoft.com/)
 - [Google Colab](https://colab.research.google.com/)
-- [Postman](https://www.postman.com/)
-- *(Exploring: Jupyter, MySQL Workbench, Notion for project documentation)*
+- [Jupyter](https://jupyter.org/)
+- *(Exploring: Notion for project documentation,)*
 
 ---
 
 ## 🚀 Key Projects
 
-| Project Title                             | Description                                                                 | Tech Used                          |
+| Project Title                            | Description                                                                 | Tech Stack                         |
 |------------------------------------------|-----------------------------------------------------------------------------|------------------------------------|
 | **Web-Based Portfolio** *(Ongoing)*      | Personal portfolio showcasing skills, resume, and projects                  | HTML, CSS, Bootstrap, Streamlit    |
 | **Loan Approval Prediction**             | ML-based predictive system for customer loan eligibility                    | Python, Pandas, Scikit-learn       |
 | **Netflix Dashboard**                    | Interactive visual dashboard analyzing show trends                          | Tableau                            |
 | **Healthcare Dashboard**                 | Clinical report visualizer using Kaggle dataset                             | Power BI                           |
-| **Customer Data Generator**              | Custom dummy dataset generator based on behavioral parameters              | Python                             |
+| **Customer Data Generator**              | Custom dummy dataset generator based on behavioral parameters               | Python                             |
+| **Quiz Management System and Analytics** | A quiz management system with a dynamic set of questions and score cards    | Python, SQL-Lite3, Streamlit       |
+| **Advanced Book Scrapper**               | A Book scrapper app which scrapes the books information from a specific website and allows the analyst to perform the analysis on the data scraped | Python, Numpy, Pandas, Matplotlib, SQLLite3, |
+
 
 ---
 
