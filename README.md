@@ -38,7 +38,7 @@
 
 | Project Title                            | Description                                                                 | Tech Stack                         |
 |------------------------------------------|-----------------------------------------------------------------------------|------------------------------------|
-| **Web-Based Portfolio** *(Ongoing)*      | Personal portfolio showcasing skills, resume, and projects                  | HTML, CSS, Bootstrap, Streamlit    |
+| **Web-Based Portfolio** *(Ongoing)*      | Personal portfolio showcasing skills, resume, and projects                  | HTML, CSS, Bootstrap, ReactJS      |
 | **Loan Approval Prediction**             | ML-based predictive system for customer loan eligibility                    | Python, Pandas, Scikit-learn       |
 | **Netflix Dashboard**                    | Interactive visual dashboard analyzing show trends                          | Tableau                            |
 | **Healthcare Dashboard**                 | Clinical report visualizer using Kaggle dataset                             | Power BI                           |
@@ -50,7 +50,6 @@
 ---
 
 ## 📌 Upcoming Project Ideas
-
 - 📱 Expense Tracker with Category-wise Pie Charts (Streamlit + SQLite)
 - ☁️ Weather Dashboard using OpenWeatherMap API
 - 📄 Resume Analyzer (Text Classification + NLP)
