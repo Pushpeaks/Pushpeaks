@@ -11,6 +11,7 @@
 ## 🧠 Languages
 - **Python**
 - **Java**
+- **C#**
 
 ---
 
@@ -18,6 +19,7 @@
 
 - [Streamlit](https://streamlit.io/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Fast API](https://fastapi.tiangolo.com/)
 - *(Next Up: Flask, TailwindCSS, or FastAPI)*
 
 ---
