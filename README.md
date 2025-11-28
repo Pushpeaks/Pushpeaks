@@ -20,7 +20,7 @@
 - [Streamlit](https://streamlit.io/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Fast API](https://fastapi.tiangolo.com/)
-- *(Next Up: Flask, TailwindCSS, or FastAPI)*
+- *(Next Up: LangChain or Hugging Face)*
 
 ---
 
@@ -59,7 +59,7 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - ✅ Contribute to **Open Source Streamlit** projects  
 - 🚧 Build and maintain **10+ meaningful GitHub repositories**  
