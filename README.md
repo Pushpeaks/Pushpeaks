@@ -47,6 +47,8 @@
 | **Customer Data Generator**              | Custom dummy dataset generator based on behavioral parameters               | Python                             |
 | **Quiz Management System and Analytics** | A quiz management system with a dynamic set of questions and score cards    | Python, SQL-Lite3, Streamlit       |
 | **Advanced Book Scrapper**               | A Book scrapper app which scrapes the books information from a specific website and allows the analyst to perform the analysis on the data scraped | Python, Numpy, Pandas, Matplotlib, SQLLite3, |
+| **AgroFy Predictive Dashboard** | A web dashboard that can predict a farmer's rpofitable crop to met the asked profit    | Python, React, Node.js      |
+
 
 
 ---
