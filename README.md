@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Pushpesh Srivastava
 
 - 👀 I’m interested in **Data Science** and **Artificial Intelligence**
-- 🌱 I’m currently learning **Computer Applications (BCA)**
+- 🌱 I’m currently pursuing my Masters in Computer Applications from NIT Bhopal
 - 💞️ I’m looking to collaborate on **AI, Machine Learning**, and **Data Analysis Projects**
 - 😄 Pronouns: **He/Him**
 - 🥁 Fun fact: I’m also a **Drummer** and love creating beats alongside building logic!
@@ -11,7 +11,7 @@
 ## 🧠 Languages
 - **Python**
 - **Java**
-- **C#**
+- **C++**
 
 ---
 
